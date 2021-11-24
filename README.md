@@ -1,4 +1,3 @@
-# DMML
 Data Mining and Machine Learning Portfolio 
 
 Full end to end Machine Learning and Data Mining solution to provide analysis and to predict if the shipments delivered on time or not using Supervisied and unsupervisied learning, Neural Networks and Convolutional Neural Networks.
